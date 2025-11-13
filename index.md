@@ -22,7 +22,9 @@
 
 [Unidad 2](Unidad2.md)  
 
-[Unidad 3](Unidad3.md)  
+[Unidad 3](Unidad3.md)    
+
+[Declaracion de uso de IA](usoIA.md)
 
 
 

@@ -5,7 +5,7 @@
 
 
 # Aprendizaje Practico- Experimental (APE) 
-[Actividades APE](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4f9749f1-b284-4950-b9e7-a76aafc6fe52" />)
+[Actividades APE](https://drive.google.com/drive/folders/18QXG0NiYugj7uNDMyNdBQ1GpfjCR3_0l?usp=sharing)
 
 
 

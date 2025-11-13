@@ -9,7 +9,7 @@
 ### Carrera: Computación  
 ### Ciclo: Primero   
 
-**Terminos a conocer**:  
+#### Terminos a conocer:  
 
 *ACD:* (Aprendizaje en contacto con el docente), por lo general se suelen realizar a manera de actividades en clase, su objetivo es evaluar el nivel de aprendizaje en la presente clase, con orientación del docente  
 
@@ -17,9 +17,12 @@
 
 *AA:* (Aprendizaje Autonomo), esta actividad se realiza fuera de horas-clase y pretenden servir como evaluador del aprendizaje adquirido de los distintos temas a manera de tareas  
 
-**Actividades realizadas a lo largo del ciclo academico**   
+#### Actividades realizadas a lo largo del ciclo academico
 [Unidad 1](Unidad1.md)  
+
 [Unidad 2](Unidad2.md)  
-[Unidad 3](Unidad3.md)
+
+[Unidad 3](Unidad3.md)  
+
 
 

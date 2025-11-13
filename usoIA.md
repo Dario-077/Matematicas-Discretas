@@ -9,4 +9,4 @@ Durante la elaboración de este portafolio digital utilicé herramientas de **in
   
 💬 La inteligencia artificial fue utilizada **como herramienta de apoyo académico**, respetando el proceso de aprendizaje individual y complementando mis propios aportes, análisis y conclusiones.
 
-[Volver al Index](index.md)
+🔍[Volver al Index](index.md)

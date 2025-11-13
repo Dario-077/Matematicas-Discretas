@@ -1,6 +1,6 @@
 🔍[Regresar al Index](index.md)  
 
-# Aprendizaje en Contacto con el Docente (ACD)
+# ⚙️Aprendizaje en Contacto con el Docente (ACD)
  [Actividades ACD](https://drive.google.com/drive/folders/1hHN2Qsdb7sPP6C1ON5VcAuBpn5QqcK_h?usp=sharing)  
 
  ### ∧ ∨ ¬ → ↔ ACD 1:

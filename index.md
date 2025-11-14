@@ -26,9 +26,13 @@
 *Reglas de inferencia:* Formas lógicas que permiten derivar una conclusión válida a partir de un conjunto de premisas  
 
 *∧:* Conjunción, se lee como "Y", solo es válido cuando ambas proposiciones son verdaderas  
+
 *∨:* Disyunción, se lee como "O", es valida cuando al menos una proposición es verdadera  
-*¬:* Negación, se lee como "No", lo que hace es cambiar el valor de verdad de la proposición
+
+*¬:* Negación, se lee como "No", lo que hace es cambiar el valor de verdad de la proposición  
+
 *→:* Condicional, se lee como si **p** entonces **q**, solo es falso cuando q lo es  
+
 *↔:* Bicondicional, se lee como **si y solo si**, es verdadero cuando ambas proposiciones tienen el mismo valor de verdad
 
 #### Actividades realizadas a lo largo del ciclo academico

@@ -17,6 +17,14 @@
 
 *AA:* (Aprendizaje Autonomo), esta actividad se realiza fuera de horas-clase y pretenden servir como evaluador del aprendizaje adquirido de los distintos temas a manera de tareas  
 
+*Proposición*: Oracion que puede tener dos valores de verdad, verdadero o falso, jamás ambos  
+
+*Conectores lógicos*: Simbolos o palabras que unen y relacionan a dos proposiciones  
+
+*Leyes de las proposiciones*: Equivalencias lógicas que permiten simplificar y manipular expresiones lógicas complejas.  
+
+*Reglas de inferencia:* Formas lógicas que permiten derivar una conclusión válida a partir de un conjunto de premisas
+
 #### Actividades realizadas a lo largo del ciclo academico
 🔗[Unidad 1](Unidad1.md)  
 

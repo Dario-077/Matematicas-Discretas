@@ -23,4 +23,4 @@ Se resolvieron un total de 30 enunciados, que venian desde definicion y comprens
 # 🧤Aprendizaje Autonomo (AA)  
 [Actividades AA](https://drive.google.com/drive/folders/1MOWhbBLOicrbbxGbbU_z44QwI8f2k7dU?usp=sharing])  
 *Proposiciones*  
-En esta actividad, se nos preentan dos enunciados, el primero, un parrafo, se deben identificar premisas y resolver por método lógico su conclusión y el segundo enunciado es un conjunto de 4 premisas, por medio de leyes de proposiciones y reglas de inferencia se llega a un resultado de verdad. Actividad ideal para desarrollar el pensamiento lógico
+En esta actividad, se nos presentan dos enunciados, el primero, un parrafo, se deben identificar premisas y resolver por método lógico su conclusión y el segundo enunciado es un conjunto de 4 premisas, por medio de leyes de proposiciones y reglas de inferencia se llega a un resultado de verdad. Actividad ideal para desarrollar el pensamiento lógico
